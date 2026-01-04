@@ -1,0 +1,37 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(120deg, #0f172a, #020617);
+  color: #e5e7eb;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.hero {
+  padding: 80px 20px;
+  background: linear-gradient(135deg, #22c55e, #3b82f6, #eab308);
+}
+.badge {
+  background: #ef4444;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+section {
+  padding: 40px 20px;
+}
+.contact form {
+  max-width: 400px;
+  margin: auto;
+}
+input, textarea, button {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+}
+button {
+  background: #22c55e;
+  color: #020617;
+  border: none;
+  cursor: pointer;
+}
